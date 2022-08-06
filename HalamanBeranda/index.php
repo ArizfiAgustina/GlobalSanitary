@@ -11,7 +11,7 @@
     <!-- My CSS -->
     <link rel="stylesheet" href="style.css"/>
 
-    <title>PT ABI</title>
+    <title>Global Sanitary | Beranda</title>
   </head>
   <body style="background-color : #F9F2EA; ">
   <!-- Navbar -->
