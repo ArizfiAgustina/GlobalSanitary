@@ -11,7 +11,7 @@
     <!-- My CSS -->
     <link rel="stylesheet" href="style.css"/>
 
-    <title>PT ABI</title>
+    <title>Global Sanitary | Beranda</title>
   </head>
   <body style="background-color : #F9F2EA; ">
   <!-- Navbar -->
@@ -141,7 +141,7 @@
 
           <img src="img/petunjuk.png" width="100%" title="Petunjuk perawatan" alt="Gambar Petunjuk Perawatan">
 
-          <section class="footer" style="background-color : #F8F799; font-colo">
+          <section class="footer" style="background-color : #F8F799;">
             <div class="container" >
             <div class="row pt-5 pb-5">
               <div class="col-4">
