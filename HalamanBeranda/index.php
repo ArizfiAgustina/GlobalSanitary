@@ -74,12 +74,37 @@
 
         <div class="row justify-content-evenly pt-5 pb-5">
            <div class="col-4">
+             <a href="katalog1.php">
               <img src="img/paketa.jpeg" width="500px" title="Paket A" alt="Gambar Paket A">
              </a>
            </div>
            <div class="col-4">
+            <a href="katalog2.php">
               <img src="img/paketb.jpeg" width="500px" title="Paket B" alt="Gambar Paket B">
              </a>
+           </div>
+        </div>
+
+        <h1 class="text-center pt-5">Manfaat Global Sanitary</h1>
+
+        <div class="row justify-content-evenly pt-5 pb-5">
+           <div class="col-4">
+              <img src="img/manfaat1.png" width="500px" alt="Manfaat 1">
+           </div>
+           <div class="col-4">
+              <img src="img/manfaat2.png" width="500px" alt="Manfaat 2">
+           </div>
+        </div>
+        <div class="row justify-content-evenly pt-5 pb-5">
+           <div class="col-4">
+              <img src="img/manfaat3.png" width="500px" alt="Manfaat 3">
+           </div>
+           <div class="col-4">
+              <img src="img/manfaat4.png" width="500px" alt="Manfaat 4">
+           </div>
+        </div><div class="row justify-content-evenly pt-5 pb-5">
+           <div class="col-4">
+              <img src="img/manfat5.png" width="500px" alt="Manfaat 5">
            </div>
         </div>
 
