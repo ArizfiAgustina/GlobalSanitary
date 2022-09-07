@@ -25,7 +25,7 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav ms-auto">
         <li class="nav-item">
-          <a class="nav-link" href="index.php">Beranda</a>
+          <a class="nav-link" href="homepage.php">Beranda</a>
         </li>
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="tentangkami.php">Tentang Kami</a>
@@ -41,25 +41,61 @@
     <!-- end navbar -->
 
     <!-- jumbotron -->
-    <section class="jumbotron pt-5 pb-5" style="height : 605px; ">
+    <section class="jumbotron pt-5 pb-5" style="height : 550px; ">
 
     <div class="container">
-  <div class="row pt-5">
+    <div class="row pt-4">
     <div class="col-4">
-    <img src="img/logo.png" width="250px" title="Logo PT ABI" alt="Gambar Logo PT ABI">
+    <img src="img/logo.png" width="250px" title="Logo Global Sanitary" alt="Gambar Logo Global Sanitary">
     </div>
-    <div class="col-8">
-    PT. ADYUTA BUMI INDONESIA adalah badan usaha berpengalaman yang mengerjakan proyek nasional. PT. ADYUTA BUMI INDONESIA dapat mengerjakan proyek-proyek dengan sub klasifikasi, seperti jasa pelaksana untuk kontruksi bangunan komersial, jasa pelaksana untuk kontruksi jalan raya, jasa pelaksana konstruksi pekerjaan jembatan, jalan Layang, terowongan dan subways. 
+    <div class="col-8 pb-5">
+    Perusahaan yang dituju sebagai tempat Praktik Industri yaitu PT Adyuta Bumi Indonesia yang merupakan perusahaan pelaksanaan konstruksi berbentuk Perseroan Terbatas (PT) dan merupakan badan usaha berpengalaman yang mengerjakan proyek nasional. PT Adyuta Bumi Indonesia merupakan perusahaan swasta berskala nasional yang memiliki sejarah dan pengalaman panjang di bidang jasa konstruksi. Perusahaan telah melakukan kegiatan bisnisnya sejak didirikan pada tahun 2019. Perusahaan didirikan di Gresik pada tanggal 22 Juli 2019 berdasarkan Data Isian Akta Notaris. 
     <br>
     <br>
-    Alamat : DUSUN LEKERREJO RT.03/RW.03, DS. DADAP KUNING, KEC. CERME, KAB. GRESIK 61171
+    Pada saat ini PT Adyuta Bumi Indonesia berkomitmen untuk meningkatkan kinerja perusahaan melalui penerapan manajemen teknologi dan melakukan restrukturisasi perusahaan secara menyeluruh, dimulai dari visi dan misi, struktur organisasi, SDM, sistem informasi, sampai dengan manajemen risiko di dalam kontruksi. PT Adyuta Bumi Indonesia dapat mengerjakan proyek-proyek dengan sub klasifikasi, diantaranya jasa pelaksana kontruksi bangunan komersial, jasa pelaksana untuk kontruksi bangunan gedung, jasa pelaksana konstruksi jalan daya dan lain sebagainya. Pada tahun 2021, Universitas Negeri Surabaya dan PT Adyuta Bumi Indonesia telah melakukan kerja sama. Selain itu, PT Adyuta Bumi Indonesia juga bergerak pada bidang Global Sanitary. Salah satu produk yang paling banyak terjual adalah Aromateraphy+ yang merupakan produk pengharum ruangan yang memberikan manfaat sterilisasi maupun perlindungan bersifat terakumulasi di udara terhadap virus maupun bakteri.
     <br>
     <br>
-    No telp : 08987654321
     </div>
-  </div>
+</div>
+</section>
 
-    </section>
+    <div class="row pt-5 pb-5">
+      <h3>Testimonials</h3>
+      <div class="col">
+      <video playsinline autoplay muted loop controls width="250">
+        <source src="vid/vid 1.mp4" type="video/mp4"/>
+        Browsermu tidak mendukung
+      </video>
+      </div>
+      <div class="col">
+      <video playsinline autoplay muted loop controls width="250">
+        <source src="vid/vid 2.mp4" type="video/mp4" />
+        Browsermu tidak mendukung 
+      </video>
+    </div>
+    <div class="col">
+      <video playsinline autoplay muted loop controls width="250">
+        <source src="vid/vid 2.mp4" type="video/mp4" />
+        Browsermu tidak mendukung 
+      </video>
+    </div>
+    <div class="col">
+      <video playsinline autoplay muted loop controls width="250">
+        <source src="vid/vid 2.mp4" type="video/mp4" />
+        Browsermu tidak mendukung 
+      </video>
+    </div>
+    <div class="col">
+      <video playsinline autoplay muted loop controls width="250">
+        <source src="vid/vid 2.mp4" type="video/mp4" />
+        Browsermu tidak mendukung 
+      </video>
+    </div>
+</div>
+
+  
+
+
 
     <!-- end jumbotron -->
 
