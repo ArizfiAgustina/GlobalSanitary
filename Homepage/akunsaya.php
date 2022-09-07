@@ -33,7 +33,6 @@
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="akunsaya.php">Akun saya</a>
         </li>
-        <button class="btn btn-outline-dark" type="logout">Logout</button>
       </ul>
     </div>
   </div>

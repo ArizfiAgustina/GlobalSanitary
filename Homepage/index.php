@@ -173,7 +173,7 @@
                 <p>Social Media</p>
               </div>
               <div class="col-8">
-                <p>Telp 08123456789</p>
+                <p>Telp  (031) 7994949</p>
                 <br/>
                 <p>DUSUN LEKERREJO RT.03/RW.03, DS. DADAP KUNING, KEC. CERME, KAB. GRESIK 61171</p>
                 <br/>
